@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rudra267&label=Profile%20views&color=0e75b6&style=flat" alt="Rudra267" />
 </p>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> hA little more about me...  
 <img align="right" src="https://github.com/hi-manss/hi-manss/blob/main/developer.gif" width="350px">
 
 - 🌱 I’m currently learning **Full Stack Web-development**
