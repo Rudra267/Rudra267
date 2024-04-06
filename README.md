@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=FFFFFF" alt="GitHub" />
     <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032" alt="Git" />
     <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=Php&logoColor=F05032" alt="Php" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/220px-Jira_%28Software%29_logo.svg.png" alt="Jira" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/10px-Jira_%28Software%29_logo.svg.png" alt="Jira" /> 
   </p>
 </p>
 
