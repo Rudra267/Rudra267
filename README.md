@@ -4,7 +4,7 @@
 </p>
 <img align="right" src="https://github.com/hi-manss/hi-manss/blob/main/developer.gif" width="350px">
 
-- 🌱 I’m currently learning **Full Stack Web-development**
+- 🌱 I’m passionate about **Full Stack Web-development**
 
 <h3 align="left">Connect with me:</h3>
 
