@@ -17,7 +17,7 @@
 <p align="center">
   <h3>🛠 Tech Stack 🛠</h3>
   <p align="center">
-    <img style="background-color:red" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java" alt="Java" />
+    <img  style="background-color:red;"  src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java" alt="Java" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React" alt="React" />
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB" alt="MongoDB" />
    <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma" alt="Figma" /> 
