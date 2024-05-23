@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rudranarayan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rudranarayan-r-99a893248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [![Gmail Badge](https://img.shields.io/badge/-nrudra550@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nrudra550@gmail.com)](mailto:nrudra550@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-________rudra__-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/________rudra__)
+[![Instagram](https://img.shields.io/badge/-________rudra__-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_________rudra___/?hl=en)
 
 
 <p align="center">
